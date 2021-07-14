@@ -1,4 +1,5 @@
 # GMS_E-Commerce
+### E-Commerce ith Decision tree
 The dataset contains website users data (Google Analytics data) from Jan 1, 2017 to Jul 31, 2017. The sample dataset contains obfuscated Google Analytics 360 data from the Google Merchandise Store, a real ecommerce store. The Google Merchandise Store sells Google branded merchandise. The data is typical of what you would see for an ecommerce website. It includes the following kinds of information:
 
 1. Traffic source data: information about where website visitors originate. This includes data about organic traffic, paid search traffic, display traffic, etc.
